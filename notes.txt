@@ -1,0 +1,37 @@
+//Make sure install the following
+brew install elasticsearch
+npm install cross-env
+npm uninstall -g nodemon
+npm install --save-dev babel-core
+npm install babel-polyfill
+sudo npm install css-modules-require-hook
+sudo npm install postcss-modules-values
+sudo npm install postcss-modules-local-by-default
+sudo npm install postcss-modules-extract-imports
+sudo npm install postcss-modules-scope
+npm install babel-preset-es2015 --save --no-bin-links
+npm install babel-preset-react --save --no-bin-links
+npm install express
+npm install mongoose
+npm install body-parser
+npm install webpack --save-dev
+npm install webpack-dev-middleware
+npm install webpack-hot-middleware
+npm install redux
+npm install redux-thunk
+npm install react
+npm install redux-devtools
+npm install redux-devtools-log-monitor
+npm install redux-devtools-dock-monitor
+npm install react-redux
+npm install react-dom
+npm install --save react@0.14.0-rc1
+npm install --save react-dom@0.14.0-rc1
+npm install react-router
+npm install isomorphic-fetch
+npm install moment
+npm install cuid
+npm install slug
+npm install sanitize-html
+npm install elasticsearch
+npm install twit
